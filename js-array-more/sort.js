@@ -5,7 +5,7 @@ console.log(sortedPersons);
 // sort --> 
 // const numbers = [4, 7, 2, 8, 3, 6];
 /* 
-Ascending ----> smaller to larger: [2, 3, 4, 6, 7, 8]
+Ascending ----> smaller to larger: [2, 3, 4, 6, 7, 8]A e  
 Descending --> larger to smaller:  [8, 7, 6, 4, 3, 2]
 */
 const numbers = [4, 7, 12, 8, 43, 6, 1];
